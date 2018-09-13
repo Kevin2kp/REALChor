@@ -1,0 +1,20 @@
+{
+	"sister_golden_hair": {
+		"name": "sister_golden_hair",
+		"display_name": "Sister Golden Hair",
+		"lyrics_file": "sister_golden_hair.txt",
+		"arrangement_file": ""
+	},
+	"peaceful_easy_feeling": {
+		"name": "peaceful_easy_feeling",
+		"display_name": "Peaceful Easy Feeling",
+		"lyrics_file": "peaceful_easy_feeling.txt",
+		"arrangement_file": ""
+	},
+	"brown_eyed_girl": {
+		"name": "brown_eyed_girl",
+		"display_name": "Brown Eyed Girl",
+		"lyrics_file": "brown_eyed_girl.txt",
+		"arrangement_file": "brown_eyed_girl.json"
+	}
+}

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title><%title%></title>
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="/css/styles.css" type="text/css">
+</head>
+<body>
+
+<div id="selection_area">
+    <h1>Welcome</h1>
+    <p>Select a song to display: </p>
+    <div>
+        <select id="song_selector">
+            <option value="">Select a song</option>
+            <%song_list%>
+        </select>
+        <input type="submit" value="Get Song" id="submit_button">
+        <input type="submit" value="Save" id="save_button">
+        <input type="submit" value="Undo Changes" id="undo_button">
+    </div>
+</div>
+<div id="song_area">
+</div>
+</body>
+
+<script src="javascript/jquery.js"></script>
+<script src="javascript/scripts.js"></script>
+</html>
