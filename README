@@ -1,8 +1,5 @@
 Really Eccentric Awkward Lyrics & Chords Editor  (REALChor)
 
-ASSIGNMENT 1: SINGLE PAGE APP
-
-
 All of the code in this assignment was written by Kevin Diez-Ocampo, excluding: node and js native libraries, jquery,
 and npm colour module
 
@@ -10,7 +7,6 @@ DISCLAIMER:
 
 I used the colour npm module on this assignment. This was  only for logging purposes and does not help me in any
 way towards completing the assignment requirements.
-
 
 INSTRUCTIONS:
 
